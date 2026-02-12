@@ -79,7 +79,7 @@ London, UK
 
 ## 📬 Reach Me
 
-- 🌐 https://ogydigital.com
+- 🌐 https://ogy.digital
 - 📧 ogulcan@ogyunal.com
 - 🧠 Building in public
 
