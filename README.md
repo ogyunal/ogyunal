@@ -1,36 +1,45 @@
 # 👋 Hi, I'm Oğulcan Ünal
 
-Founder of **OGY Digital LTD**  
-Building AI-powered SaaS & consumer apps.
+Founder of **OGY Digital LTD**, a product company and angel investor.
+We build, run and back iOS apps, SaaS and web platforms.
 
 🚀 Multiple product exits  
 📱 100K+ users across products  
-🤖 AI x Automation x Consumer Internet  
+💸 Angel investor in early-stage companies  
 
 ---
 
-## 🏗 OGY Digital – Current Products
+## 🏗 Now Building
 
-### 📲 Consumer Apps
-- **Prism** – Trusted AI Digest for iOS (daily AI brief in 5 minutes)
-- **Cookie Jar** – Viral consumer social product
-- **Filmorya** – AI-powered movie discovery & storytelling platform
-
-### 🧠 AI & SaaS Products
-- **Winglytics** – AI Engine Optimization (get discovered inside ChatGPT & LLMs)
-- **Artemion** – AI-powered job search assistant
-- **SlotPilot** – Newsletter sponsorship booking platform
-- **ChurnTap** – Subscription churn analytics & retention intelligence
+### 🧪 ArveLabs
+The AI-native studio OS. Ten AI specialists that learn your apps, run growth and distribution, and compound every week. Not advice, execution. Our biggest product yet.
+→ [arvelabs.com](https://arvelabs.com)
 
 ---
 
-## 🚀 What I Build
+## 🚀 Flagship Products (Live)
 
-- AI-native products
-- Automation systems
-- Consumer subscription apps
-- Micro SaaS with distribution-first strategy
-- Tools designed for speed, leverage, and scale
+- **CookieJar** – Play & make bite-size games
+- **FitFlow** – AI workout generator
+- **Hiç Kulüp** – Özel numara kulübü (social)
+- **PageVera** – AI website redesign tool
+- **Prism** – Daily AI news digest
+
+**Also from the studio:** FoundrAI · TaskMelt · Artemion · Face Yoga · Morning Mindset · Lighthouse Construction · Logic Vogic
+
+---
+
+## 💸 Angel Investments
+
+ZOE · Pazardan · Helimore · BizimBulut · MUA
+
+---
+
+## 🔨 How I Work
+
+- **Build** – Designed, engineered and shipped in-house. Easy on the eye, simple to use, solid under the hood.
+- **Operate** – I run what I ship. Every product is actively maintained, measured and improved.
+- **Back** – Capital and hands-on product experience for early-stage founders solving real problems.
 
 ---
 
@@ -61,19 +70,9 @@ OpenAI · Claude · LangChain · Multi-agent systems
 
 ---
 
-## 🧠 Currently Exploring
-
-- AI-native mobile apps
-- Agentic workflows
-- AI visibility & LLM distribution
-- Consumer growth loops
-- Subscription monetization mechanics
-
----
-
 ## 🌍 Location
 
-London, UK  
+London & Istanbul
 
 ---
 
@@ -85,4 +84,4 @@ London, UK
 
 ---
 
-> Building products at the intersection of AI, leverage, and distribution.
+> We build, run and back iOS apps.
